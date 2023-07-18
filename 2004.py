@@ -35,5 +35,5 @@ python stlp.py
 * Ubuntu
 * Debain
 
-# Join Our  Whats app Group ⬇️:
-https://chat.whatsapp.com/JE4123ONqGI60g1802a8sI
+# Join Our Facebook Group ⬇️:
+https://facebook.com/groups/spamming.termux.learning.point/
